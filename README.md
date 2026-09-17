@@ -1,4 +1,4 @@
- # Hi, I'm Nadia Tamanna Nitu 👋
+ # Hi, I'm Nadia Tamanna Nitu 
 
 **Software Engineer** with 2+ years of experience building scalable React, Next.js, NestJS, and TypeScript applications for enterprise and EdTech platforms. Specialized in high-performance admin systems, Business Intelligence dashboards, RBAC, and data-intensive applications supporting 300K+ users.
 
